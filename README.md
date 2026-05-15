@@ -104,7 +104,7 @@ Alternatively, use the live p5.js editor links above (once uploaded).
 ## 📝 Commentary & Reflection
 
 Full reflective commentary (~300 words per experiment) is available on the **Canva portfolio website**:  
-[Insert Canva link here]
+https://prithviscreativecoding.my.canva.site
 
 Each commentary includes:  
 - Starting point / inspiration.  
@@ -117,16 +117,9 @@ Each commentary includes:
 
 ## ✅ Submission Deliverables
 
-- **GitHub repository:** [Insert GitHub link here]  
-- **Canva website:** [Insert Canva link here]  
-- **PDF submission** (containing above links + direct live/edit links) – submitted via Moodle.
+- **GitHub repository:** [[Insert GitHub link here]](https://github.com/JettMacri/creative-coding-assessment.git)  
+- **Canva website:** https://prithviscreativecoding.my.canva.site
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## 📅 Deadline
-
-**May 15, 2026**
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-*All code is original except where noted in comments or this README. Did take help from codingtrain from youtube*
+ Did take help from codingtrain from youtube*
